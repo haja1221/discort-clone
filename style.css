@@ -7,9 +7,6 @@
     padding-top: 10px;
     color: white;    
 }
-.navbar{
-    color: white;
-}
 .text-color{
  color: white;
 }
@@ -18,5 +15,17 @@
 	border-radius: 24px;
     color: white;
 }
-
+.parent{
+    align-items: center;
+}
+.middle-space{
+    background-color: #2666CF;
+    height: 20vh;
+}
+.IAP{
+    background-color: #2666CF;
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+}
 
